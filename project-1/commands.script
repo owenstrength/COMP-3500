@@ -1,0 +1,22 @@
+Script started on Fri 19 Jan 2024 11:17:03 AM CST
+[?1034hbash-4.2$ pwd
+/home/u1/ods0005
+bash-4.2$ ls
+a.out  commands.script	comp-2710  ntuser.cmd  typescript
+bash-4.2$ mkdit [K[Kr po[K[Kco[K[Ktest-folder
+bash-4.2$ touch new-text.txt
+bash-4.2$ mv new-text.tst[K[Kxt test-folder
+bash-4.2$ cd tet[Kst-folder
+bash-4.2$ rm new-text.txt
+bash-4.2$ cd ../
+bash-4.2$ chmod u+rw, [Kgo+r test-folder
+bash-4.2$ clear
+[3;J[H[2Jbash-4.2$ who
+ods0005  pts/0        2024-01-19 11:05 (ettin.eng.auburn.edu)
+ods0005  pts/1        2024-01-19 11:17
+bash-4.2$ nproc
+16
+bash-4.2$ exit
+exit
+
+Script done on Fri 19 Jan 2024 11:19:42 AM CST
